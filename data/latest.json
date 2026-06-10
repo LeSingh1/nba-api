@@ -1,16 +1,16 @@
 {
   "sport": "basketball",
   "league": "nba",
-  "date": "20260608",
+  "date": "20260610",
   "count": 1,
   "games": [
     {
-      "id": "401859965",
+      "id": "401859966",
       "name": "San Antonio Spurs at New York Knicks",
       "shortName": "SA @ NY",
-      "date": "2026-06-09T00:30Z",
+      "date": "2026-06-11T00:30Z",
       "state": "pre",
-      "status": "6/8 - 8:30 PM EDT",
+      "status": "6/10 - 8:30 PM EDT",
       "completed": false,
       "home": {
         "id": "18",
