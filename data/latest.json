@@ -1,27 +1,27 @@
 {
   "sport": "basketball",
   "league": "nba",
-  "date": "20260610",
+  "date": "20260613",
   "count": 1,
   "games": [
     {
-      "id": "401859966",
-      "name": "San Antonio Spurs at New York Knicks",
-      "shortName": "SA @ NY",
-      "date": "2026-06-11T00:30Z",
+      "id": "401859967",
+      "name": "New York Knicks at San Antonio Spurs",
+      "shortName": "NY @ SA",
+      "date": "2026-06-14T00:30Z",
       "state": "pre",
-      "status": "6/10 - 8:30 PM EDT",
+      "status": "6/13 - 8:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "NY",
-        "name": "New York Knicks",
-        "score": "0"
-      },
-      "away": {
         "id": "24",
         "abbr": "SA",
         "name": "San Antonio Spurs",
+        "score": "0"
+      },
+      "away": {
+        "id": "18",
+        "abbr": "NY",
+        "name": "New York Knicks",
         "score": "0"
       }
     }
